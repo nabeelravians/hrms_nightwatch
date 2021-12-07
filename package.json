@@ -1,0 +1,22 @@
+{
+  "name": "hrms_automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^96.0.0",
+    "nightwatch": "^1.7.12"
+  },
+  "devDependencies": {
+    "geckodriver": "^2.0.4"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
